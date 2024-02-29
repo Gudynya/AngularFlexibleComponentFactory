@@ -27,6 +27,6 @@ export class CustomDynamicComponent implements IDynamicComponentInterface {
 
 Invoke the component:
 
-```
+```typescript
 const component : ComponentRef<ICustomComponentInterface> = this.customComponentFactory.createDynamicComponent('component', container, {});
 ```
