@@ -5,7 +5,7 @@ It can be used to prevent circular dependencies.
 
 # Install
 ```
-npm install flexible-component-factory --save-dev
+npm i flexible-component-factory
 ```
 # Usage
 
